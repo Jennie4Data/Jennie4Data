@@ -1,5 +1,5 @@
 ![__](https://github.com/Jennie4Data/Jennie4Data/assets/113417789/0d3e6157-3b29-4267-9d28-23a908dff49b)
-- 👋 Hello! I'm Jenn.
+#Hello! I'm Jenn.👋
 - I have a deep love for data and a high level of proficiency in various data tools. My expertise encompasses just the use of tools but logic and the quest to solve problems. Through my extensive experience, I have honed my skills in extracting, analyzing, and visualizing data, allowing me to uncover valuable insights and drive informed decision-making. Whether it's manipulating databases using SQL, conducting advanced data analysis in Excel, creating interactive dashboards in Power BI and Tableau, or leveraging Python/R for data modeling and machine learning, I thrive on harnessing the power of data to derive meaningful outcomes.
 - Tools, I use;
   - SQL
